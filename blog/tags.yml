@@ -2,3 +2,8 @@ animals:
   label: Animals
   permalink: /animals
   description: Animals
+
+northernlights:
+  label: Northern-Lights
+  permalink: /northernlights
+  description: Northern Lights
