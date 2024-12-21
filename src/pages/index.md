@@ -1,7 +1,10 @@
 ---
-title: Markdown page example
+title: The Frozen North
 ---
 
-# Markdown page example
+# Our Trip North
 
-You don't need React to write simple standalone pages.
+Dog sledding!
+![And were off!](https://www.dropbox.com/scl/fi/u74qc8d6fi0dskr29poju/DSC_0342.JPG?rlkey=tv30i3af1evh56b88vjojhnq8&st=mmiefln9&dl=0)
+
+See more in the [blog](/blog)
