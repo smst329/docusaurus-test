@@ -80,8 +80,8 @@ const config = {
         ],
       },
       prism: {
-        theme: prismThemes.gruvboxMaterialLight,
-        darkTheme: prismThemes.gruvboxMaterialDark,
+        theme: prismThemes.jettwaveLight,
+        darkTheme: prismThemes.jettwaveDark,
       },
     }),
 };
