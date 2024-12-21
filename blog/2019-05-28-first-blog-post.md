@@ -1,7 +1,7 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors: [smst]
+authors: smst
 tags: [hola, docusaurus]
 ---
 
