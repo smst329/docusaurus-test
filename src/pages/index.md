@@ -1,5 +1,5 @@
 ---
-title: The Frozen North
+title: Welcome
 ---
 
 # Our Trip North

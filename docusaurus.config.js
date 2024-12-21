@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Blog',
-  tagline: 'blog',
+  title: 'Home',
+  tagline: 'home',
 
   // Set the production url of your site here
   url: 'https://smst329.github.io',
