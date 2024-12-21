@@ -10,9 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Docusaurus Site',
-  tagline: 'Docusaurus site',
-  favicon: 'img/favicon.ico',
+  title: 'Blog',
+  tagline: 'blog',
 
   // Set the production url of your site here
   url: 'https://smst329.github.io',
@@ -68,7 +67,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Docusaurus Site',
+        title: 'Blog',
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
         ],
