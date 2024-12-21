@@ -80,7 +80,8 @@ const config = {
         ],
       },
       prism: {
-        darkTheme: prismThemes.dracula
+        theme: prismThemes.nightOwlLight,
+        darkTheme: prismThemes.nightOwl,
       },
     }),
 };
