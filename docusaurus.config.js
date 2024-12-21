@@ -25,7 +25,7 @@ const config = {
   projectName: 'docusaurus-test', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -65,22 +65,21 @@ const config = {
         defaultMode: 'dark'
       },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Blog',
+        title: 'Home',
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            label: 'Blog',
-            to: '/blog',
-          },
-        ],
-      },
+      // footer: {
+      //   style: 'dark',
+      //   links: [
+      //     {
+      //       label: 'Blog',
+      //       to: '/blog',
+      //     },
+      //   ],
+      // },
       prism: {
         theme: prismThemes.jettwaveLight,
         darkTheme: prismThemes.jettwaveDark,
